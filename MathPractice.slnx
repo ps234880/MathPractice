@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MathPractice/MathPractice.csproj" />
+  <Project Path="UnitTestMath/UnitTests.csproj" Id="22cb56c8-20d4-4232-8650-7074c58f5181" />
+</Solution>
